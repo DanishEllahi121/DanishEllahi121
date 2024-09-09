@@ -1,16 +1,13 @@
-## Hi there 👋
+# Danish Ellahi!
+> [!CAUTION]
+> What do you call a software that kills someone?
+> 
+> **A code blooded murderer!** 😆
 
-<!--
-**DanishEllahi121/DanishEllahi121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **I'm Passionate about**: Learning and sharing knowledge.
+- **Fun fact about me**: I’m the most hilarious being on earth—my laptop laughs so hard at my jokes, it almost crashes!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [!WARNING]
+> Why is Linux safe?
+> 
+> Hackers peak through **Windows only**. 🪟
